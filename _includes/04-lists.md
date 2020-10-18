@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1.  Apple
+1.  Orange
+1.  Pear
+1.  Banana
